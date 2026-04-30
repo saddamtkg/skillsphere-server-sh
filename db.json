@@ -1,0 +1,274 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Complete Web Development Bootcamp",
+      "instructor": "John Doe",
+      "duration": "20 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn full-stack web development from scratch with practical projects.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "category": "Development"
+    },
+    {
+      "id": 2,
+      "title": "UI UX Design Masterclass",
+      "instructor": "Sarah Khan",
+      "duration": "15 hours",
+      "rating": 4.7,
+      "level": "Beginner",
+      "description": "Master design principles, wireframing, and prototyping for modern apps.",
+      "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d",
+      "category": "Design"
+    },
+    {
+      "id": 3,
+      "title": "Digital Marketing Strategy",
+      "instructor": "Alex Martin",
+      "duration": "18 hours",
+      "rating": 4.6,
+      "level": "Intermediate",
+      "description": "Build winning marketing campaigns using SEO, social media, and ads.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "category": "Marketing"
+    },
+    {
+      "id": 4,
+      "title": "Python for Data Analysis",
+      "instructor": "Emily Chen",
+      "duration": "22 hours",
+      "rating": 4.9,
+      "level": "Intermediate",
+      "description": "Analyze and visualize real-world datasets using Python and pandas.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+      "category": "Data Science"
+    },
+    {
+      "id": 5,
+      "title": "React and Next.js Fundamentals",
+      "instructor": "Michael Lee",
+      "duration": "16 hours",
+      "rating": 4.8,
+      "level": "Beginner",
+      "description": "Learn component-based development and build modern React apps.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+      "category": "Development"
+    },
+    {
+      "id": 6,
+      "title": "Advanced JavaScript Patterns",
+      "instructor": "Nadia Rahman",
+      "duration": "14 hours",
+      "rating": 4.7,
+      "level": "Advanced",
+      "description": "Deep dive into closures, prototypes, async patterns, and architecture.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+      "category": "Development"
+    },
+    {
+      "id": 7,
+      "title": "Motion Graphics Essentials",
+      "instructor": "David Wilson",
+      "duration": "12 hours",
+      "rating": 4.5,
+      "level": "Beginner",
+      "description": "Create engaging motion graphics for social media and branding.",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "category": "Design"
+    },
+    {
+      "id": 8,
+      "title": "Product Management Basics",
+      "instructor": "Olivia Brown",
+      "duration": "11 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Understand product lifecycle, roadmap planning, and stakeholder management.",
+      "image": "https://images.unsplash.com/photo-1559027615-cd4628902d4a",
+      "category": "Business"
+    },
+    {
+      "id": 9,
+      "title": "SQL for Beginners",
+      "instructor": "Robert King",
+      "duration": "10 hours",
+      "rating": 4.4,
+      "level": "Beginner",
+      "description": "Learn SQL queries, joins, filtering, and database basics from zero.",
+      "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d",
+      "category": "Data Science"
+    },
+    {
+      "id": 10,
+      "title": "Cybersecurity Fundamentals",
+      "instructor": "Ayesha Noor",
+      "duration": "13 hours",
+      "rating": 4.7,
+      "level": "Intermediate",
+      "description": "Explore core security concepts, vulnerabilities, and protection methods.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+      "category": "Security"
+    },
+    {
+      "id": 11,
+      "title": "Mobile App Design with Figma",
+      "instructor": "Kevin Scott",
+      "duration": "9 hours",
+      "rating": 4.5,
+      "level": "Intermediate",
+      "description": "Design responsive mobile UI screens and interactive prototypes in Figma.",
+      "image": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c",
+      "category": "Design"
+    },
+    {
+      "id": 12,
+      "title": "Freelancing and Client Communication",
+      "instructor": "Farhana Islam",
+      "duration": "8 hours",
+      "rating": 4.6,
+      "level": "Beginner",
+      "description": "Learn how to find clients, write proposals, and deliver projects professionally.",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+      "category": "Career"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "title": "Senior Full Stack Developer",
+      "expertise": "Web Development",
+      "rating": 4.9,
+      "students": 3200,
+      "coursesCount": 4,
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Khan",
+      "title": "Lead UI UX Designer",
+      "expertise": "Product Design",
+      "rating": 4.8,
+      "students": 2800,
+      "coursesCount": 3,
+      "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alex Martin",
+      "title": "Digital Marketing Consultant",
+      "expertise": "Marketing Strategy",
+      "rating": 4.7,
+      "students": 2500,
+      "coursesCount": 5,
+      "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Emily Chen",
+      "title": "Data Scientist",
+      "expertise": "Data Analysis",
+      "rating": 4.9,
+      "students": 3000,
+      "coursesCount": 4,
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Michael Lee",
+      "title": "Frontend Architect",
+      "expertise": "React and Next.js",
+      "rating": 4.8,
+      "students": 2700,
+      "coursesCount": 3,
+      "image": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nadia Rahman",
+      "title": "JavaScript Engineer",
+      "expertise": "Advanced JavaScript",
+      "rating": 4.7,
+      "students": 2300,
+      "coursesCount": 2,
+      "image": "https://randomuser.me/api/portraits/women/6.jpg"
+    }
+  ],
+  "heroSlides": [
+    {
+      "id": 1,
+      "title": "Upgrade Your Skills Today",
+      "subtitle": "Learn from industry experts and build your career.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+      "ctaText": "Explore Courses"
+    },
+    {
+      "id": 2,
+      "title": "Learn by Building Projects",
+      "subtitle": "Hands-on learning paths for modern tech skills.",
+      "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+      "ctaText": "Start Learning"
+    },
+    {
+      "id": 3,
+      "title": "Become Job Ready Faster",
+      "subtitle": "Structured courses designed for real-world outcomes.",
+      "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8",
+      "ctaText": "Join SkillSphere"
+    },
+    {
+      "id": 4,
+      "title": "Master In-Demand Skills",
+      "subtitle": "Stay ahead with industry-relevant courses.",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "ctaText": "Browse Skills"
+    },
+    {
+      "id": 5,
+      "title": "Learn Anytime Anywhere",
+      "subtitle": "Access courses from any device at your convenience.",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4",
+      "ctaText": "Get Started"
+    },
+    {
+      "id": 6,
+      "title": "Join a Learning Community",
+      "subtitle": "Collaborate and grow with other learners.",
+      "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94",
+      "ctaText": "Join Now"
+    }
+  ],
+  "learningTips": [
+    {
+      "id": 1,
+      "title": "Set Weekly Learning Goals",
+      "description": "Plan small achievable goals every week and track your progress."
+    },
+    {
+      "id": 2,
+      "title": "Practice with Real Projects",
+      "description": "Apply concepts to projects so you remember and understand better."
+    },
+    {
+      "id": 3,
+      "title": "Use the Pomodoro Method",
+      "description": "Study in focused sessions with short breaks to avoid burnout."
+    },
+    {
+      "id": 4,
+      "title": "Revise Before New Lessons",
+      "description": "Quick revision improves retention and prepares your mind for new topics."
+    },
+    {
+      "id": 5,
+      "title": "Teach What You Learn",
+      "description": "Explaining concepts to others strengthens your understanding."
+    },
+    {
+      "id": 6,
+      "title": "Stay Consistent",
+      "description": "Learning a little every day is better than cramming occasionally."
+    }
+  ]
+}
